@@ -7,8 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Dexter
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+# Biography
+**Ming-Hsien(Dexter) Chien** is a graduate student at   [Computer Science and Engineering Department](https://engineering.tamu.edu/cse/index.html) of [Texas A&M University](https://www.tamu.edu/). As a strong team player, He's flexible in terms of work and passionate about software systems and infrastructure. He wants to use his knowledge to influence and motivate more people, along with expanding my knowledge in various kinds of software development, especially in distributed and storage system. In addition, he has profound industry experience and interned in Tesla, Western Digital(Sandisk) and Intel. 
+<style>
+.aligncenter {
+    text-align: center;
+    margin: 35px; 
+}
+</style>
+
+
+<p class="aligncenter">
+  <img src="images/Symbol-Tesla.jpg" width="120" />
+  <img src="images/INTEL_LOGO.jpg" width="120" />
+  <img src="images/Western_Digital.jpg.jpg" width="120" /> 
+</p>
+
 
 A data-driven personal website
 ======
