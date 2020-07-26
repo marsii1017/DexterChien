@@ -28,15 +28,18 @@ Industry Expereince
 ======
 * **Tesla Inc.** 
     * Position: Software Engineer Internship 
+    * Specialization: Sensor
     * Dururation: Aug. 2020 - Dec. 2020
     * Location: Palo Alto, CA
 
 * **Western Dgital(Sandisk)**
-    * Position: Software Engineer Internship 
+    * Position: Software Development Engineer Internship 
+    * Specialization: Meomory Device and System
     * Dururation: May 2020 - Jul. 2020
     * Location: Milpitas, CA 
 * **Intel Corporation**
-    * Position: Product Development Internship 
+    * Position: Software Product Development Internship 
+    * Specialization: Non-Volatile Memory System
     * Dururation: Mar. 2018 - Dec. 2018
     * Location: Hsinchu, TW
 
