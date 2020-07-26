@@ -19,8 +19,9 @@ redirect_from:
 
 <p class="aligncenter">
   <img src="images/Symbol-Tesla.jpg" width="120" />
+  <img src="images/Western_Digital.jpg" width="120" /> 
   <img src="images/INTEL_LOGO.jpg" width="120" />
-  <img src="images/Western_Digital.jpg.jpg" width="120" /> 
+
 </p>
 
 
