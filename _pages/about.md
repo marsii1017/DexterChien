@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dexter Chien's Introduction"
+title: "Dexter Chien's Protfolio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
