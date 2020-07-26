@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-=====
+
 **Ming-Hsien(Dexter) Chien** is a graduate student at   [Computer Science and Engineering Department](https://engineering.tamu.edu/cse/index.html) of [Texas A&M University](https://www.tamu.edu/). As a strong team player, He's flexible in terms of work and passionate about software systems and infrastructure. He wants to use his knowledge to influence and motivate more people, along with expanding my knowledge in various kinds of software development, especially in distributed and storage system. In addition, he has profound industry experience and interned in Tesla, Western Digital (Sandisk) and Intel. 
 <style>
 .aligncenter {
@@ -30,7 +30,7 @@ Industry Expereince
 ======
 * **Tesla Inc.** 
     * Position: Software Engineer Internship 
-    * Specialization: Sensor
+    * Specialization: Sensor 
     * Dururation: Aug. 2020 - Dec. 2020
     * Location: Palo Alto, CA
 
