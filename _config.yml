@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dexter(Ming-Hsien) Chien"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "Passionate software and system developer | Full of interesting ideas | Keep enthusiastic, keep starving, keep fit, keep moving forward"
+  location         : "Palo Alto, CA"
+  employer         : "Tesla Inc."
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "github.com/marsii1017"
   google_plus      :
   keybase          :
   instagram        :
