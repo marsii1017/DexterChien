@@ -30,11 +30,11 @@ Industry Expereince
 ======
 * **Tesla Inc.** 
     * Position: Software Engineer Internship 
-    * Specialization: Sensor 
+    * Specialization: Autopilot Sensoring System 
     * Dururation: Aug. 2020 - Dec. 2020
     * Location: Palo Alto, CA
 
-* **Western Dgital(Sandisk)**
+* **Western Digital(Sandisk)**
     * Position: Software Development Engineer Internship 
     * Specialization: Meomory Device and System
     * Dururation: May 2020 - Jul. 2020
