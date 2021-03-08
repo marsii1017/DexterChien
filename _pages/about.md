@@ -30,7 +30,7 @@ Industry Expereince
 ======
 * **Tesla Inc.** 
     * Position: Software Engineer Internship 
-    * Specialization: Autopilot Sensing System 
+    * Specialization: Autopilot Sensing System Devlopment 
     * Dururation: Aug. 2020 - Dec. 2020
     * Location: Palo Alto, CA
 
